@@ -1,1 +1,5 @@
 .DS_Store
+mex20_train_labels.txt
+mex20_train.txt
+mex20_val_labels.txt
+mex20_val.txt
